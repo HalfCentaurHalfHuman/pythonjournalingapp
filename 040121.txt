@@ -1,0 +1,8 @@
+Date: 040121
+Daily Journal 
+2225
+Hi,
+This is the first entry ever written in the new journaling app I developed in Python,
+it is able to handle Enter keys now, it will add a new line whenever you hit the Enter key, just like in real life.
+Anyway, hope this helps, and have fun journaling!
+

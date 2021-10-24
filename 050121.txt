@@ -1,0 +1,6 @@
+Daily journal.
+05 January, 2021
+
+Hello, this is me again. Having fun huh?
+Yes it is! This file is actually being open and closed twice, because I cannot get it to open when in append+ mode, pretty weird huh?
+Anyway, have fun!

@@ -1,0 +1,5 @@
+Date: 060121
+Daily Journal 
+Time: 21:41
+Hello,
+This is the third entry in the journal written by me on the journal manager I developed.

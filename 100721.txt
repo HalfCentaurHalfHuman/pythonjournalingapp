@@ -1,0 +1,5 @@
+Daily journal.
+10 July, 2021
+Okay, long time no see. I have been learning Java for the second semester, and this is therefore a first interaction with Python in a long time, just as buggy and refreshing as always.
+I am currently in an ICPC session, not that I am paying any attention haha.
+Good bye
